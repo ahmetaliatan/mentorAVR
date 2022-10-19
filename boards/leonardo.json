@@ -22,7 +22,8 @@
       ]
     ],
     "mcu": "atmega32u4",
-    "usb_product": "Arduino Leonardo",
+    "usb_product": "| Joystick Board",
+    "usb_manufacturer":"Mentor Bilisim",
     "variant": "leonardo"
   },
   "bootloader": {
@@ -39,7 +40,7 @@
   "frameworks": [
     "arduino"
   ],
-  "name": "Arduino Leonardo",
+  "name": "Mentor Bilisim | Joystick Board",
   "upload": {
     "disable_flushing": true,
     "maximum_ram_size": 2560,
@@ -51,5 +52,5 @@
     "wait_for_upload_port": true
   },
   "url": "https://www.arduino.cc/en/Main/ArduinoBoardLeonardo",
-  "vendor": "Arduino"
+  "vendor": "Mentor Bilisim"
 }
